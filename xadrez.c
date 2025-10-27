@@ -34,6 +34,5 @@ do {
 } while (i < rainha);
     printf("\n");
 
-
 return 0;
 }
